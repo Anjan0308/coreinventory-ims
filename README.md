@@ -1,7 +1,7 @@
 # coreinventory-ims
 # CoreInventory
 
-**CoreInventory** is a modular **Inventory Management System (IMS)** developed for the **Odoo Hackathon**.  
+**CoreInventory** is a modular **Inventory Management System (IMS)**.  
 The system digitizes and centralizes inventory operations, replacing manual tracking methods such as spreadsheets and paper registers with a structured, real-time inventory platform.
 
 ---
